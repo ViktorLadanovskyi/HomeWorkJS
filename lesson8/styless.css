@@ -1,0 +1,12 @@
+.red-tr{
+    background: red;
+    color: white;
+}
+
+div{
+    min-height: 50px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 5px;
+    background: yellow;
+}
