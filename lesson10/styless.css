@@ -1,3 +1,7 @@
+thead tr td{
+    font-weight: bold;
+}
+
 .red-tr{
     background: red;
     color: white;

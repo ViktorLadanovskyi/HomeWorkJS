@@ -126,7 +126,7 @@ $(document).ready(e =>{
     const createTable = countries => {
         let htmlStr = `<table class="table table-bordered text-center">
         <thead>
-        <tr><td data-sort="name">Name</td><td><b>Capital</b></td><td data-sort="population">Population</td><td><b>Area</b></td><td><b>Currency</b></td><td><b>Borders</b></td></tr>
+        <tr><td data-sort="name">Name</td><td>Capital</td><td data-sort="population">Population</td><td>Area</td><td>Currency</td><td>Borders</td></tr>
         </thead>
         <tbody>`;
 
